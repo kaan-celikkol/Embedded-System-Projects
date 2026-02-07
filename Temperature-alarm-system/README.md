@@ -1,4 +1,6 @@
 Temperature Alarm System 🌡️
+![Sıcaklık Alarm Sistemi Devresi](IMG_3669.jpeg)
+
 This repository contains my first embedded systems project, developed to get familiar with microcontrollers and basic C++ programming using Arduino.
 
 🔧 Tools & Technologies
